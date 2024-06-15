@@ -20,6 +20,26 @@ This repository contains laboratory reports from the Fundamentals of Telecommuni
 - **Submission Date:** 23.04.2024
 - **Description:** This report delves into the intricacies of optical fiber transmission and the spectral characteristics of various light sources. It covers attenuation mechanisms in optical fibers, the use of spectrometers to analyze light emission spectra, and the practical implications of optical technologies in modern communications.
 
+### 4. Amplitude Shift Keying (ASK)
+**File:** [ASK.pdf](./ASK.pdf)
+- **Submission Date:** 03.04.2024
+- **Description:** This report summarizes a laboratory session dedicated to exploring Amplitude Shift Keying (ASK) for the modulation and demodulation of digital signals. It includes experiments to investigate ASK's practical applications, waveform observations, and analysis of modulation characteristics.
+
+### 5. Frequency Modulation (FM) and Phase Modulation (PM)
+**File:** [fm_pm.pdf](./fm_pm.pdf)
+- **Submission Date:** 22.05.2024
+- **Description:** This laboratory assignment provides a comprehensive understanding of frequency and phase modulation and demodulation. The report includes hands-on experiments with modulators and demodulators, waveform observations, and detailed analysis of FM and PM signals.
+
+### 6. Passive Fiber Components
+**File:** [passive.pdf](./passive.pdf)
+- **Submission Date:** 18.04.2024
+- **Description:** This report explores passive fiber components like isolators and couplers in telecom systems. It includes measurements of optical power, insertion loss, isolation, coupling ratio, and reflection coefficients to understand the performance and functionality of these components.
+
+### 7. Splicing of Optical Fibers
+**File:** [splice.pdf](./splice.pdf)
+- **Submission Date:** 08.05.2024
+- **Description:** This report covers practical techniques and equipment necessary for effectively joining fiber optic cables using mechanical and fusion splicing methods. The exercises include fiber stripping, cleaning, cleaving, fusion, and protection, with detailed observations and analysis of splicing outcomes.
+
 ## Contents
 
 ### am.pdf
@@ -49,4 +69,37 @@ This repository contains laboratory reports from the Fundamentals of Telecommuni
   - Attenuation Measurements
   - Spectral Analysis of Light Sources
   - Examination of Optical Fiber Components
+- **Conclusion**
+
+### ASK.pdf
+- **Introduction to ASK**
+- **Experiments and Results**
+  - Voltage Measurements
+  - Waveform Observations
+  - Modulation and Demodulation Analysis
+- **Conclusion**
+
+### fm_pm.pdf
+- **Introduction to FM and PM**
+- **Exercises and Observations**
+  - Frequency and Amplitude Adjustments
+  - Modulated Signal Analysis
+  - Demodulation Process Examination
+- **Conclusion**
+
+### passive.pdf
+- **Introduction to Passive Fiber Components**
+- **Experiments and Results**
+  - Optical Power Measurements
+  - Insertion Loss and Isolation Analysis
+  - Coupling Ratio and Reflection Coefficient Calculations
+- **Conclusion**
+
+### splice.pdf
+- **Introduction to Optical Fiber Splicing**
+- **Experiments and Results**
+  - Fiber Stripping, Cleaning, and Cleaving
+  - Fusion Splicing Process
+  - Splice Protection Measures
+  - Splicing Loss Analysis
 - **Conclusion**
